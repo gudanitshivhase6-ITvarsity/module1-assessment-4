@@ -1,0 +1,60 @@
+h1{
+    color: aqua;
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+}
+
+h2{
+    color: darkgreen;
+    font-family: fantasy;
+    text-align: right;
+}
+
+h3{
+    font-family: comic sans, cosmic sans ms, cursive;
+}
+
+p{
+    font-weight: 800;
+    text-decoration: line-through;
+}
+
+table{
+    font-family: sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: chartreuse;
+}
+
+
+
+th{
+    font-weight: 800;
+    background-color: aqua;
+    color: aliceblue;
+}
+
+tr.alt td{
+    background-color: aquamarine;
+}
+
+ul{
+    list-style-image: url(index.html);
+}
+
+ol{
+    list-style-image: upper-roman;
+}
+
+#menu-bar a{
+    font-family: inherit;
+    text-decoration: none;
+    background-color: blueviolet;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: black;
+}
